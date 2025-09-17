@@ -262,6 +262,11 @@ Avg Caption = -- This is the Revenue of Age-Group above and below average Captio
 - **DAX (Data Analysis Expressions)** → Custom KPIs, measures, ranking logic.  
 - **Star Schema** → Efficient data modeling across multiple tables.  
 
+## 📂 Dataset  
+
+The dataset used in this project is available in the `Dataset/` folder.  
+You can explore it here: [Dataset Folder](https://github.com/Rutvik1429/Customer-Performance-Dashboard-DAX-Power-BI/tree/main/Dataset)  
+
 
 ## 🚀 Conclusion  
 This dashboard enables businesses to **track customer behavior, identify revenue-driving segments, and optimize strategies** for better customer engagement and profitability.  
